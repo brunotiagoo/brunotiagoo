@@ -8,7 +8,9 @@
 </h1>
 
 <!-- Snake -->
-![snake gif](https://github.com/brunotiagoo/brunotiagoo/blob/output/github-snake-dark.svg)
+<div align="center">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/brunotiagoo/brunotiagoo/output/github-snake-dark.svg" alt="snake gif" />
+</div
 
 
 <!-- Links -->
