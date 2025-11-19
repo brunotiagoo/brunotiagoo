@@ -13,7 +13,7 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/bruno-mesquita14/](www.linkedin.com/in/bruno-mesquita14)">
+  <a href="[www.linkedin.com/in/bruno-mesquita14/](www.linkedin.com/in/bruno-mesquita14/)">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
