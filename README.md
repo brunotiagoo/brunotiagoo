@@ -1,3 +1,6 @@
+<!-- Visitors -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=brunotiagoo.brunotiagoo&left_text=Views&left_color=black&right_color=black&text_color=white" align="right" />
+
 
 <!-- Intro -->
 <h1 align="center">
