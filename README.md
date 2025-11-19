@@ -9,7 +9,7 @@
 
 <!-- Snake -->
 <p align="center">
-  <img src="https://github.com/renatob04/renatob04/blob/output/github-snake-dark.svg?raw=true" alt="Snake" />
+  <img src="https://github.com/brunotiagoo/brunotiagoo/blob/output/github-snake-dark.svg?raw=true" alt="Snake" />
 </p>
 
 <!-- Links -->
