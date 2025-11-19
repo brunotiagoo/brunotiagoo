@@ -17,13 +17,13 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/brunogmesquita">
+  <a href="[www.linkedin.com/in/brunogmesquita](https://www.linkedin.com/in/brunogmesquita/)">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/brunotiagoo/EDJD">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" />
   </a>
 </p>
