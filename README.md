@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&color=C0C0C0&lines=Hi+There!+👋;+I'm+Bruno!;+Game+Dev+Student+🎮" alt="Intro" />
 </h1>
 
+<!-- Snake -->
+<p align="center">
+![snake gif](https://github.com/brunotiagoo/brunotiagoo/blob/output/github-snake-dark.svg)
+  </a>
+</p>
 
 <!-- Links -->
 <h2 align="center">Connect with me</h2>
