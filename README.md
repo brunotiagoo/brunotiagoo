@@ -9,14 +9,17 @@
 
 <!-- Snake -->
 <p align="center">
-  <img src="https://github.com/brunotiagoo/brunotiagoo/blob/output/github-snake-dark.svg?raw=true" alt="Snake" />
+  <img src="https://github.com/renatob04/renatob04/blob/output/github-snake-dark.svg?raw=true" alt="Snake" />
 </p>
 
 <!-- Links -->
 <h2 align="center">Connect with me</h2>
 
+<!-- Links -->
+<h2 align="center">Connect with me</h2>
+
 <p align="center">
-  <a href="[www.linkedin.com/in/bruno-mesquita14/](www.linkedin.com/in/bruno-mesquita14/)">
+  <a href="www.linkedin.com/in/brunogmesquita">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
