@@ -27,6 +27,11 @@ on:
       - main
 
 
+# --- A CORREÇÃO ESTÁ AQUI ---
+    permissions:
+      contents: write
+    # ----------------------------
+
 
 jobs:
 
