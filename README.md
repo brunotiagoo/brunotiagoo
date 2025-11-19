@@ -12,8 +12,6 @@
   <img src="https://github.com/renatob04/renatob04/blob/output/github-snake-dark.svg?raw=true" alt="Snake" />
 </p>
 
-<!-- Links -->
-<h2 align="center">Connect with me</h2>
 
 <!-- Links -->
 <h2 align="center">Connect with me</h2>
