@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/brunotiagoo/EDJD">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/brunogmesquita/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
