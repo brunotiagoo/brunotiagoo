@@ -13,13 +13,13 @@
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renatob04/">
+  <a href="[https://www.linkedin.com/in/renatob04/](https://www.linkedin.com/in/bruno-mesquita-0b8361162/)">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/RenatoB04/EDJD">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -30,7 +30,7 @@
 <p align="center">
   <img 
     width="450" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatob04&layout=compact&card_width=350&hide=shaderlab,makefile,cmake,hlsl&theme=dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunotiagoo&layout=compact&card_width=350&hide=shaderlab,makefile,cmake,hlsl&theme=dark&hide_border=true" 
     alt="Languages" 
   />
 </p>
@@ -38,7 +38,7 @@
 <p align="center">
   <img 
     width="450" 
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=RenatoB04&theme=dark&hide_border=true&hide_current_streak=true" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=brunotiagoo&theme=dark&hide_border=true&hide_current_streak=true" 
     alt="Streak" 
   />
 </p>
