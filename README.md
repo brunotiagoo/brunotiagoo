@@ -8,9 +8,8 @@
 </h1>
 
 <!-- Snake -->
-<a align="center">
 ![snake gif](https://github.com/brunotiagoo/brunotiagoo/blob/output/github-snake-dark.svg)
-</a>
+
 
 <!-- Links -->
 <h2 align="center">Connect with me</h2>
